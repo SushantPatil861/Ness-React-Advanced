@@ -1,0 +1,35 @@
+
+.flexLayout {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flexLayout > button {
+    margin-left: 10px;
+    width: 15%;
+    height: 30px;
+    font-size: 15px;
+    background-color: rgb(65, 113, 216);
+    color: white;
+    border-radius: 5px;
+}
+
+.flexLayout > input {
+    width: 85%;
+    height: 25px;
+    font-size: 15px;
+    border-color: cadetblue;
+    border-radius: 5px;
+}
+
+.mainContainer {
+    margin: 5% 30%;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(65, 113, 216);
+}
+.listContainer {
+    margin-top: 10%;
+}
