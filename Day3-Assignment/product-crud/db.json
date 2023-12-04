@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "BB Cream",
+      "category": "Cosmetics",
+      "quantity": "50",
+      "unitprice": 10
+    },
+    {
+      "id": 2,
+      "name": "afaafasf",
+      "category": "asdaafasa",
+      "quantity": "15",
+      "unitprice": "1000"
+    },
+    {
+      "id": 3,
+      "name": "Faber Gas Stove",
+      "category": "Kitchen Appliance",
+      "quantity": "40",
+      "unitprice": "1000"
+    },
+    {
+      "id": 4,
+      "name": "saewe",
+      "category": "qweqewqe1",
+      "quantity": "15",
+      "unitprice": "42"
+    },
+    {
+      "id": 5,
+      "name": "sadada",
+      "category": "adsasd",
+      "quantity": "123",
+      "unitprice": "12"
+    },
+    {
+      "id": 6,
+      "name": "qwe",
+      "category": "qweqeqe",
+      "quantity": "12",
+      "unitprice": "143"
+    },
+    {
+      "id": 7,
+      "name": "qwerqw",
+      "category": "iuwqueijwe",
+      "quantity": "10",
+      "unitprice": "10"
+    },
+    {
+      "id": 8,
+      "name": "qweqeq",
+      "category": "rerererere",
+      "quantity": "10",
+      "unitprice": "15"
+    },
+    {
+      "id": 9,
+      "name": "aseda",
+      "category": "qweqwe",
+      "quantity": "0",
+      "unitprice": "0"
+    },
+    {
+      "id": 10,
+      "name": "qweqew",
+      "category": "qwerwewe",
+      "quantity": "0",
+      "unitprice": "0"
+    }
+  ]
+}
